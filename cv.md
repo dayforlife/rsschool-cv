@@ -22,8 +22,6 @@ Hello, my name is Eldiiar. I'm studying JavaScript at home with my brother. My g
         <li><a href="" class="menu__item">О проекте</a></li>
         <span class="line"></span>
         <li><a href="" class="menu__item">Скачать</a></li>
-        <span class="line"></span>
-        <li><a href="" class="menu__item">Контакты</a></li>
     </ul>
 </div>
 <header>
@@ -36,7 +34,6 @@ Hello, my name is Eldiiar. I'm studying JavaScript at home with my brother. My g
             <li><a href="" class="menu__item">О приложении</a></li>
             <li><a href="" class="menu__item">О проекте</a></li>
             <li><a href="" class="menu__item">Скачать</a></li>
-            <li><a href="" class="menu__item">Контакты</a></li>
         </ul>
     </nav>
 </header>
