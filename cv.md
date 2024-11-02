@@ -46,6 +46,7 @@ Hello, my name is Eldiiar. I'm studying JavaScript at home with my brother. My g
 * JavaScript
 * HTML/CSS
 * GitHub
+* Django
 
 ## Experience
 Solo learning using [W3Schools](https://www.w3schools.com/js/)
