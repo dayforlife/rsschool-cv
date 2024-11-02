@@ -1,1 +1,1 @@
-# rsschool-cv
+https://dayforlife.github.io/rsschool-cv/cv
